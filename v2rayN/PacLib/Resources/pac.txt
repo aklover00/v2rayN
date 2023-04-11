@@ -83,6 +83,7 @@ var rules = [
             "yda.gov.tw",
             "youdao.com",
             "zhongsou.com"
+            "lingualeo.com"
         ],
         [
             "000webhost.com",
